@@ -1,0 +1,18 @@
+.text-1{
+    font-family: 'Rubik Iso', cursive;
+    font-size: 3rem;
+}
+@font-face {
+    font-family: "ComforterBrush";
+    font-weight: normal;
+    font-style: normal;
+    src: local("ComforterBrush-Regular"),
+      url("/fonts/ComforterBrush-Regular.woff2") format("woff2"),
+      url("/fonts/ComforterBrush-Regular.woff") format("woff"),
+      url("/fonts/ComforterBrush-Regular.eot") format("eot");
+    font-display:swap;
+}
+.text-3{
+    font-family:"ComforterBrush";
+    font-size: 3rem;
+}
